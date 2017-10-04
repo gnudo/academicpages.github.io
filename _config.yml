@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Goran Lovric"
-  avatar           : "http://localhost:4000/images/profile.png"#"profile.png"
+  avatar           : "profile.png"
   bio              : "Physicist, biomedical engineer, and Postdoc at <a style='color: black;' href='http://www.cibm.ch'>CIBM</a>"
   location         : "Aargau, Switzerland"
   employer         :
