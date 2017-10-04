@@ -24,3 +24,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
 end
+
+# Fix according to this solution: https://stackoverflow.com/a/41456412
+gem 'json', github: 'flori/json', branch: 'v1.8'
