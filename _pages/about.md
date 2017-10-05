@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Goran Lovric, a physicist with a doctorate in biomedical engineering. Currently, I'm working as a postdoctoral researcher with the [Center of Biomedical Imaging](http://www.cibm.ch/) in the [X-ray Tomography Group](https://www.psi.ch/x-ray-tomography-group/) of the Swiss Light Source (Paul Scherrer Institute).
+Hi, I'm Goran Lovric, a physicist with a doctorate (PhD) in biomedical engineering. Currently, I'm working as a postdoctoral researcher in the [Center of Biomedical Imaging](http://www.cibm.ch/), within the *Phase contrast X-ray imaging core*, located at the [X-ray Tomography Group](https://www.psi.ch/x-ray-tomography-group/) of the Swiss Light Source (Paul Scherrer Institute).
