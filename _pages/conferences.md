@@ -75,6 +75,25 @@ SRI 2012
 --------------------------------------------------------------------------------
 
 
+NCCBI Final meeting
+:   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> January 25<sup>th</sup>, 2018</span> `|` Saanen (Switzerland)
+:   **Invited oral presentation** `|` [Link to NCCBI](http://www.nccbi.ch/)
+
+
+Lung imaging workshop
+:   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> January 15<sup>th</sup>, 2018</span> `|` Lund University, Lund (Sweden)
+
+
+Progress report
+:   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> January 9<sup>th</sup>, 2018</span> `|` PSI Villigen (Switzerland)
+:   **Oral presentation**
+
+
+Collaboration meeting
+:   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> December 22<sup>nd</sup>, 2017</span> `|` Srebrnjak Children's Hospital, Zagreb (Croatia)
+:   **Invited oral presentation** `|` [Homepage](http://www.bolnica-srebrnjak.hr/)
+
+
 Imaging the life: Workshop on Biomedical imaging and image analysis
 :   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> September 23<sup>rd</sup>, 2017</span> `|` ETH, Zurich (Switzerland)
 :   **Invited oral presentation** `|` [Link to CASTS](http://sinotech.ch/)
@@ -158,6 +177,7 @@ Collaboration meeting
 
 Progress report
 :   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> October 15<sup>th</sup>, 2013</span> `|` PSI Villigen (Switzerland)
+:   **Oral presentation**
 
 
 JUM@P'13: Third Joint Users' Meeting @ PSI

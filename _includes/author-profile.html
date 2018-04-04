@@ -112,6 +112,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
+      {% if author.researcherid %}
+      <li><a href="https://www.researcherid.com/rid/{{ author.researcherid }}"><i class="fa fa-fw" aria-hidden="true"><span id='badgeCont89026' style='width:26px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont89026&mashlet=badge&showTitle=false&className=a&rid={{ author.researcherid }}&size=small'></script></span></i> ResearcherID</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
