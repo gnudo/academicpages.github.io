@@ -75,6 +75,10 @@ SRI 2012
 --------------------------------------------------------------------------------
 
 
+Lung imaging workshop
+:   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> April 17<sup>th</sup>, 2018</span> `|` Max IV, Lund (Sweden)
+
+
 NCCBI Final meeting
 :   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> January 25<sup>th</sup>, 2018</span> `|` Saanen (Switzerland)
 :   **Invited oral presentation** `|` [Link to NCCBI](http://www.nccbi.ch/)
