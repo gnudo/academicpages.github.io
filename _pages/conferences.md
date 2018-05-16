@@ -10,6 +10,12 @@ author_profile: true
 --------------------------------------------------------------------------------
 
 
+ATS 2018
+:   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> May 18<sup>th</sup>, 2018</span> `|` San Diego (USA)
+:   **RAPiD oral presentation**
+:   **Poster presentation**
+
+
 ERS International Congress
 :   <i class="fa fa-clock-o" aria-hidden="true"></i> <span style="color: #9ba1a6"> September 9<sup>th</sup>, 2017</span> `|` Milano (Italy)
 
